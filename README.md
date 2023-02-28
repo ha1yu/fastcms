@@ -1,5 +1,5 @@
 
-# Fastcms system has a zip package directory traversal vulnerability that allows for arbitrary file writing. And gain server privileges;**
+# Fastcms system has a zip package directory traversal vulnerability that allows for arbitrary file writing. And gain server privileges
 
 **Project Address**
 
