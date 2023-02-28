@@ -5,6 +5,9 @@
 
 https://github.com/my-fastcms/fastcms
 
+**Project Issues**
+
+https://github.com/my-fastcms/fastcms/issues/1
 
 
 **This interface has a zip package directory traversal vulnerability that allows for arbitrary file writing.**
